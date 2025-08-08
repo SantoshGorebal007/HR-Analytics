@@ -3,7 +3,7 @@
 ## Overview
 This project is an HR Analytics Dashboard designed to provide insights into employee data for better decision-making. The dashboard leverages the `HR_Analytics.csv` dataset and is visualized using Power BI (`HR_Analytics.pbix`). The project also includes supporting images for enhanced dashboard aesthetics.
 
-**Live Dashboard:** [View Online](index.html)
+**Live Dashboard:** [View Online](https://santoshgorebal007.github.io/HR-Analytics/)
 
 ## Features
 - Interactive Power BI dashboard for HR analytics
